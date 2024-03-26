@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		BED42EAB2BB2EDF400630FE3 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED42EAA2BB2EDF400630FE3 /* main.swift */; };
+		BED42EB22BB2F26000630FE3 /* OlaMundoBF.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED42EB12BB2F25F00630FE3 /* OlaMundoBF.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		BED42EA72BB2EDF400630FE3 /* projetoBF */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = projetoBF; sourceTree = BUILT_PRODUCTS_DIR; };
 		BED42EAA2BB2EDF400630FE3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		BED42EB12BB2F25F00630FE3 /* OlaMundoBF.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OlaMundoBF.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				BED42EAA2BB2EDF400630FE3 /* main.swift */,
+				BED42EB12BB2F25F00630FE3 /* OlaMundoBF.swift */,
 			);
 			path = projetoBF;
 			sourceTree = "<group>";
@@ -120,6 +123,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BED42EB22BB2F26000630FE3 /* OlaMundoBF.swift in Sources */,
 				BED42EAB2BB2EDF400630FE3 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
