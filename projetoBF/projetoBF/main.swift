@@ -10,3 +10,8 @@ import Foundation
 print("Hello, World")
 
 print("Olá Mundo...")
+
+
+print("Olá Mundo...")
+print("Olá Mundo...")
+print("Olá Mundo...")

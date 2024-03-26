@@ -7,4 +7,3 @@
 
 import Foundation
 
-print("Olá, Henrique")
